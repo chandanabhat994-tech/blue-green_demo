@@ -19,3 +19,4 @@ python demo.py probe         # terminal 2
 python demo.py traffic
 python demo.py smoke green
 ```
+A small project that practises trunk-based development and blue-green deployment.
